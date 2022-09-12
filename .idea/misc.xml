@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.122265625" />
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1875" />
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout/activity_help.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout/activity_transaksi.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/ASUS ROG/AndroidStudioProjects/ProteinTracker/app/src/main/res/layout/teslayout.xml" value="0.183984375" />
       </map>
     </option>
   </component>
